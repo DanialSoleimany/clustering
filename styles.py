@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-styles = """
-<style>
+styles = """<style>
     .social-container {
         display: flex;
         justify-content: center; /* Center horizontally */
